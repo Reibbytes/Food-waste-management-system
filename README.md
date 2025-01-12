@@ -1,7 +1,7 @@
 # Food-waste-management-system
 This project aims to reduce food waste in Hotels and Restaurants through a web application. Users can register, log in, and access a dashboard with forms to record food waste, cook waste, and item waste. The system tracks and analyzes waste data, generating reports in table and chart formats. 
 The platform helps minimize daily food waste and supports redistribution to orphanages, addressing waste reduction and poverty simultaneously.
-Images
+
 ![Proj Image (1)](https://github.com/user-attachments/assets/7ec0ab60-616a-482d-b9fd-e1168f7c432c)
 
 ![Proj Image (2)](https://github.com/user-attachments/assets/eacbb9c4-edaa-4788-8888-02d5938a6195)
